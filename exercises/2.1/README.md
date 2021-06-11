@@ -1,1 +1,1 @@
-Exercícios 2.1!
+Exercício 2.1!
