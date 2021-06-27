@@ -35,7 +35,7 @@
 - [:white_check_mark:] 3-4: HTML Semântico
 - [:white_check_mark:] 3-5: [Projeto - HTML & CSS](https://github.com/tryber/sd-014-a-project-lessons-learned/pull/19)
 
-##### Bloco 4: IntroduÃ§Ã£o - JavaScript
+##### Bloco 4: Introdução - JavaScript
 
 - [:white_check_mark:] 4-1: JavaScript - Primeiros passos
 - [:white_check_mark:] 4-2: JavaScript - Array e loop For
