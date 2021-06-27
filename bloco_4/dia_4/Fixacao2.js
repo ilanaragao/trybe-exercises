@@ -7,3 +7,13 @@ let names = {
   for (let index in names) {
       console.log("Olá " + names[index]);
   }
+
+  let car = {
+    model: 'A3 Sedan',
+    manufacturer: 'Audi',
+    year: 2020
+  };
+
+  for (let type in car) {
+      console.log(type, car[type]);
+  }
