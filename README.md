@@ -16,6 +16,7 @@
 	🚧  Trybe Exercises 🚀  
 </h4>
 <br>
+
 ##### Bloco 1: Introdução - Unix & Shell
 
 - [:white_check_mark:] 1-3: Unix & Shell- Part 1
