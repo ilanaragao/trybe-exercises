@@ -15,6 +15,7 @@
 <h4 align="center"> 
 	🚧  Trybe Exercises 🚀  
 </h4>
+<br>
 
 ##### Bloco 1: Unix & Bash
 
