@@ -42,4 +42,4 @@
 - [:white_check_mark:] 4-2: JavaScript - Array e loop For
 - [:white_check_mark:] 4-3: JavaScript - Lógica de Programação e Algoritmos
 - [:white_check_mark:] 4-4: JavaScript - Objetos e funções
-- [ ] 4-5: [Projeto - Playground Functions]()
+- [:white_check_mark:] 4-5: [Projeto - Playground Functions](https://github.com/tryber/sd-014-a-project-playground-functions/pull/47)
