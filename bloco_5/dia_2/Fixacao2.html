@@ -21,23 +21,27 @@
     </div>
 
     <script>
-        /* Primeira questão */
-        let pai = document.getElementById('pai');
-        let irmaoElementoOndeVoceEsta = document.createElement('div');
-        irmaoElementoOndeVoceEsta.id = 'irmaoElementoOndeVoceEsta';
-        pai.appendChild(irmaoElementoOndeVoceEsta);
+      /* Primeira questão */
+      let pai = document.getElementById("pai");
+      let irmaoElementoOndeVoceEsta = document.createElement("div");
+      irmaoElementoOndeVoceEsta.id = "irmaoElementoOndeVoceEsta";
+      pai.appendChild(irmaoElementoOndeVoceEsta);
 
-        /* Segunda questão */
-        let filho = document.getElementById('elementoOndeVoceEsta');
-        let terceiroFilho = document.createElement('div');
-        terceiroFilho.id = 'terceiroFilho';
-        filho.appendChild(terceiroFilho);
+      /* Segunda questão */
+      let filho = document.getElementById("elementoOndeVoceEsta");
+      let terceiroFilho = document.createElement("div");
+      terceiroFilho.id = "terceiroFilho";
+      filho.appendChild(terceiroFilho);
 
-        /* Terceira questão */
-        let filhoDoFilho = document.getElementById('primeiroFilhoDoFilho');
-        let sonOfSon = document.createElement('div');
-        sonOfSon.id = 'sonOfSon';
-        filhoDoFilho.appendChild(sonOfSon);
+      /* Terceira questão */
+      let filhoDoFilho = document.getElementById("primeiroFilhoDoFilho");
+      let sonOfSon = document.createElement("div");
+      sonOfSon.id = "sonOfSon";
+      filhoDoFilho.appendChild(sonOfSon);
+
+      /* Quarta questão */
+      let thirdSon = sonOfSon.parentElement.parentElement.nextElementSibling;
+      console.log(thirdSon);
     </script>
   </body>
 </html>
