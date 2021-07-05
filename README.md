@@ -47,7 +47,7 @@
 ##### Bloco 5: JavaScript: DOM, Eventos e Web Storage
 
 - [:white_check_mark:] 5-1: JavaScript - DOM e seletores
-- [] 5-2: JavaScript - Trabalhando com elementos
+- [:white_check_mark:] 5-2: JavaScript - Trabalhando com elementos
 - [] 5-3: JavaScript - Eventos
 - [] 5-4: JavaScript - Web Storage
 - [] 5-5: [Projeto - Arte com Pixels]()
