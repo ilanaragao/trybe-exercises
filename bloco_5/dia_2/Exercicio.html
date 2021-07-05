@@ -69,8 +69,13 @@
 
         /* 3ª Questão */
         let div2 = document.createElement('div');
-        document.querySelector('.main-content').appendChild(div2);
+        div1.appendChild(div2);
         div2.className = 'center-content';
+
+        /* 4ª Questão */
+        let p = document.createElement('p');
+        div2.appendChild(p);
+        p.innerText = 'Olá mundo!!! <3'
     </script>
   </body>
 </html>
