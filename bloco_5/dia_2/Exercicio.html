@@ -57,53 +57,71 @@
   </head>
   <body>
     <script>
-        /* 1ª Questão */
-        let h1 = document.createElement('h1');
-        document.body.appendChild(h1);
-        h1.innerText = 'Exercício 5.2 - JavaScript DOM';
+      /* 1ª Questão */
+      let h1 = document.createElement("h1");
+      document.body.appendChild(h1);
+      h1.innerText = "Exercício 5.2 - JavaScript DOM";
 
-        /* 2ª Questão */
-        let div1 = document.createElement('div');
-        document.body.appendChild(div1);
-        div1.className = 'main-content';
+      /* 2ª Questão */
+      let div1 = document.createElement("div");
+      document.body.appendChild(div1);
+      div1.className = "main-content";
 
-        /* 3ª Questão */
-        let div2 = document.createElement('div');
-        div1.appendChild(div2);
-        div2.className = 'center-content';
+      /* 3ª Questão */
+      let div2 = document.createElement("div");
+      div1.appendChild(div2);
+      div2.className = "center-content";
 
-        /* 4ª Questão */
-        let p = document.createElement('p');
-        div2.appendChild(p);
-        p.innerText = 'Olá mundo!!! <3';
+      /* 4ª Questão */
+      let p = document.createElement("p");
+      div2.appendChild(p);
+      p.innerText = "Olá mundo!!! <3";
 
-        /* 5ª Questão */
-        let div3 = document.createElement('div');
-        div1.appendChild(div3);
-        div3.className = 'left-content';
+      /* 5ª Questão */
+      let div3 = document.createElement("div");
+      div1.appendChild(div3);
+      div3.className = "left-content";
 
-        /* 6ª Questão */
-        let div4 = document.createElement('div');
-        div1.appendChild(div4);
-        div4.className = 'right-content';
+      /* 6ª Questão */
+      let div4 = document.createElement("div");
+      div1.appendChild(div4);
+      div4.className = "right-content";
 
-        /* 7ª Questão */
-        let img = document.createElement('img');
-        div3.appendChild(img);
-        img.className = 'small-image';
-        img.src = 'https://picsum.photos/200';
+      /* 7ª Questão */
+      let img = document.createElement("img");
+      div3.appendChild(img);
+      img.className = "small-image";
+      img.src = "https://picsum.photos/200";
 
-        /* 8ª Questão */
-        let ul = document.createElement('ul');
-        let numeros = ['Um', 'Dois', 'Três', 'Quatro', 'Cinco', 'Seis', 'Sete', 'Oito', 'Nove', 'Dez'];
+      /* 8ª Questão */
+      let ul = document.createElement("ul");
+      let numeros = [
+        "Um",
+        "Dois",
+        "Três",
+        "Quatro",
+        "Cinco",
+        "Seis",
+        "Sete",
+        "Oito",
+        "Nove",
+        "Dez",
+      ];
 
-        for (let i = 0; i < numeros.length; i += 1) {
-            let li = document.createElement('li');
-            li.innerText = numeros[i];
-            ul.appendChild(li);
-        }
+      for (let i = 0; i < numeros.length; i += 1) {
+        let li = document.createElement("li");
+        li.innerText = numeros[i];
+        ul.appendChild(li);
+      }
 
-        div4.appendChild(ul);
+      div4.appendChild(ul);
+
+      /* 9ª Questão */
+      for (let index = 0; index < 3; index += 1) {
+        let h3 = document.createElement("h3");
+        h3.innerText = index;
+        div1.appendChild(h3);
+      }
     </script>
   </body>
 </html>
