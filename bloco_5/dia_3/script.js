@@ -123,3 +123,26 @@ function displayFridays(friday) {
 
 const diasSexta = [ 4, 11, 18, 25 ];
 displayFridays(diasSexta);
+
+/* Questão 6 */
+
+function zoomDia() {
+  let dias = document.querySelector('#days');
+
+  dias.addEventListener('mouseover', function(event) {
+    event.target.style.fontSize = '25px';
+    event.target.style.fontWeight = '900';
+  })
+};
+
+function semZoom() {
+  let dias = document.querySelector('#days');
+
+  dias.addEventListener('mouseout', function(event) {
+    event.target.style.fontWeight = '200';
+    event.target.style.fontSize = '20px';
+  })
+};
+
+zoomDia();
+semZoom();
