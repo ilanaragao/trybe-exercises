@@ -23,3 +23,9 @@ input.addEventListener('input', (event) => {
   const techClasse = document.querySelector('.tech');
   techClasse.innerText = event.target.value;
 });
+
+/* Questão 4 */
+
+myWebpage.addEventListener('dblclick', () => {
+  window.location.replace('https://github.com/ilanaragao');
+});
