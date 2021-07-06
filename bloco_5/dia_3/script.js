@@ -59,8 +59,8 @@ diasDoMes();
 /* Questão 2 */
 
 function criarBotao(botao) {
-  let buttonContainer = document.querySelector('.buttons-container');
-  let novoBotao = document.createElement('button');
+  const buttonContainer = document.querySelector('.buttons-container');
+  const novoBotao = document.createElement('button');
 
   novoBotao.innerHTML = botao;
   novoBotao.id = 'btn-holiday';
@@ -68,3 +68,24 @@ function criarBotao(botao) {
 };
 
 criarBotao('Feriados');
+
+/* Questão 3 */
+
+function feriados() {
+  const botaoFeriado = document.querySelector('#btn-holiday');
+  const classFeriados = document.querySelectorAll('.holiday')
+  const corDeFundo = 'rgb(238,238,238)';
+  const novaCor = 'purple';
+
+  botaoFeriado.addEventListener('click', function() {
+    for (let index = 0; index < classFeriados.length; index += 1) {
+      if (classFeriados[index].style.backgroundColor === novaCor) {
+        classFeriados[index].style.backgroundColor = corDeFundo;
+      } else {
+        classFeriados[index].style.backgroundColor = novaCor;
+      }
+    }
+  })
+};
+
+feriados();
