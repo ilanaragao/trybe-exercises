@@ -55,3 +55,16 @@ function diasDoMes() {
   }
 }
 diasDoMes();
+
+/* Questão 2 */
+
+function criarBotao(botao) {
+  let buttonContainer = document.querySelector('.buttons-container');
+  let novoBotao = document.createElement('button');
+
+  novoBotao.innerHTML = botao;
+  novoBotao.id = 'btn-holiday';
+  buttonContainer.appendChild(novoBotao);
+};
+
+criarBotao('Feriados');
