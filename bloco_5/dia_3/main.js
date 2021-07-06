@@ -16,3 +16,10 @@ function mudarClasse(event) {
 divUm.addEventListener('click', mudarClasse);
 divDois.addEventListener('click', mudarClasse);
 divTres.addEventListener('click', mudarClasse);
+
+/* Questão 3 */
+
+input.addEventListener('input', (event) => {
+  const techClasse = document.querySelector('.tech');
+  techClasse.innerText = event.target.value;
+});
