@@ -102,3 +102,24 @@ function botaoSexta(nome) {
 }
 
 botaoSexta("Sexta-feira");
+
+/* Questão 5 */
+
+function displayFridays(friday) {
+  const botaoSexta = document.querySelector('#btn-friday');
+  const sextas = document.getElementsByClassName('friday');
+  const sextaTexto = 'SEX-TO-U!';
+
+  botaoSexta.addEventListener('click', function() {
+  for (let index = 0; index < sextas.length; index += 1) {
+    if (sextas[index].innerText !== sextaTexto) {
+        sextas[index].innerText = sextaTexto;
+    } else {
+        sextas[index].innerText = friday[index];
+      }
+    }
+  })
+};
+
+const diasSexta = [ 4, 11, 18, 25 ];
+displayFridays(diasSexta);
