@@ -29,3 +29,13 @@ input.addEventListener('input', (event) => {
 myWebpage.addEventListener('dblclick', () => {
   window.location.replace('https://github.com/ilanaragao');
 });
+
+/* Questão 5 */
+
+myWebpage.addEventListener('mouseover', (event) => {
+  event.target.style.color = 'orchid';
+});
+
+myWebpage.addEventListener('mouseout', (event) => {
+  event.target.style.color = 'unset';
+});
