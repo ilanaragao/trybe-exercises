@@ -127,7 +127,7 @@ displayFridays(diasSexta);
 /* Questão 6 */
 
 function zoomDia() {
-  let dias = document.querySelector('#days');
+  const dias = document.querySelector('#days');
 
   dias.addEventListener('mouseover', function(event) {
     event.target.style.fontSize = '25px';
@@ -136,7 +136,7 @@ function zoomDia() {
 };
 
 function semZoom() {
-  let dias = document.querySelector('#days');
+  const dias = document.querySelector('#days');
 
   dias.addEventListener('mouseout', function(event) {
     event.target.style.fontWeight = '200';
@@ -146,3 +146,16 @@ function semZoom() {
 
 zoomDia();
 semZoom();
+
+/* Questão 7 */
+
+function tarefa(add) {
+
+  const task = document.querySelector('.my-tasks');
+  const nome = document.createElement('span');
+
+  nome.innerText = add;
+  task.appendChild(nome);
+};
+
+tarefa('Atividades da Trybe;');
