@@ -159,3 +159,17 @@ function tarefa(add) {
 };
 
 tarefa('Atividades da Trybe;');
+
+/* Questão 8 */
+
+function divTarefas(cor) {
+
+  const divTask = document.querySelector('.my-tasks');
+  const novaDiv = document.createElement('div');
+
+  novaDiv.className = 'task';
+  novaDiv.style.backgroundColor = cor;
+  divTask.appendChild(novaDiv);
+};
+
+divTarefas('Thistle');
