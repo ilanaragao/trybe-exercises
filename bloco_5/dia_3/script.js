@@ -158,7 +158,7 @@ function tarefa(add) {
   task.appendChild(nome);
 };
 
-tarefa('Atividades da Trybe;');
+tarefa('Atividades da Trybe =');
 
 /* Questão 8 */
 
@@ -190,3 +190,24 @@ function novaClasse() {
 };
 
 novaClasse();
+
+/* Questão 10 */
+
+function selecionarDia() {
+  const taskMarcada = document.getElementsByClassName('task selected');
+  const dias = document.querySelector('#days');
+  const divTask = document.querySelector('.task');
+  const cor = divTask.style.backgroundColor;
+  
+  dias.addEventListener('click', function(event){
+    const mudarCor = event.target.style.color;
+    if (taskMarcada.length > 0 && mudarCor !== cor) {
+      const color = taskMarcada[0].style.backgroundColor;
+      event.target.style.color = color;
+    } else if (mudarCor === cor && taskMarcada.length !== 0) {
+      event.target.style.color = 'rgb(119,119,119)';
+    }
+  });
+};
+
+selecionarDia();
