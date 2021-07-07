@@ -211,3 +211,33 @@ function selecionarDia() {
 };
 
 selecionarDia();
+
+/* Bônus */
+
+function compromisso() {
+  const input = document.querySelector('#task-input');
+  const botao = document.querySelector('#btn-add');
+  const lista = document.querySelector('.task-list');
+
+  botao.addEventListener('click', function() {
+    if (input.value.length > 0) {
+      const tabela = document.createElement('li');
+      tabela.innerText = input.value;
+      lista.appendChild(tabela);
+      input.value = '';
+    } else {
+      alert('Error: Digite ao menos 1 caractere.');
+    }
+  })
+
+  input.addEventListener('keyup', function(event) {
+    if (event.keyCode === 13 && input.value.length > 0) {
+      const tabela = document.createElement('li');
+      tabela.innerText = input.value;
+      lista.appendChild(tabela);
+      input.value = '';
+    }
+  });
+};
+
+compromisso();
