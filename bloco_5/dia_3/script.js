@@ -173,3 +173,20 @@ function divTarefas(cor) {
 };
 
 divTarefas('Thistle');
+
+/* Questão 9 */
+
+function novaClasse() {
+  const taskSelecionada = document.getElementsByClassName('task selected');
+  const minhaTask = document.querySelector('.task');
+
+  minhaTask.addEventListener('click', function(event) {
+    if (taskSelecionada.length === 0) {
+      event.target.className = 'task selected';
+    } else {
+      event.target.className = 'task';
+    }
+  });
+};
+
+novaClasse();
