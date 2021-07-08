@@ -37,3 +37,17 @@ tamanhoFonte.addEventListener('change', function () {
 const tamanhoSalvo = localStorage.getItem('font-size');
 const p = document.querySelector('p');
 p.style.fontSize = tamanhoSalvo;
+
+/* Questão 3 */
+
+const tamanhoLinha = document.querySelector('input[name="tamanho-linha"]');
+tamanhoLinha.addEventListener('change', function () {
+  const paragrafo = document.querySelector('p');
+  paragrafo.style.lineHeight = `${tamanhoLinha.value}px`;
+
+  localStorage.setItem('line-height', `${tamanhoLinha.value}px`);
+})
+
+const linhaSalva = localStorage.getItem('line-height');
+const linha = document.querySelector('p');
+p.style.lineHeight = linhaSalva;
