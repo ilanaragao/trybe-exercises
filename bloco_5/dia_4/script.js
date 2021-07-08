@@ -38,7 +38,7 @@ const tamanhoSalvo = localStorage.getItem('font-size');
 const p = document.querySelector('p');
 p.style.fontSize = tamanhoSalvo;
 
-/* Questão 3 */
+/* Questão 4 */
 
 const tamanhoLinha = document.querySelector('input[name="tamanho-linha"]');
 tamanhoLinha.addEventListener('change', function () {
@@ -51,3 +51,18 @@ tamanhoLinha.addEventListener('change', function () {
 const linhaSalva = localStorage.getItem('line-height');
 const linha = document.querySelector('p');
 p.style.lineHeight = linhaSalva;
+
+/* Questão 5 */
+
+const fonte = document.querySelector("#select-font");
+fonte.addEventListener("change", function () {
+  const paragraph = document.querySelector('p');
+  const mudaFonte = fonte.selectedOptions[0];
+  paragraph.style.fontFamily = mudaFonte.value;
+
+  localStorage.setItem('font-family', mudaFonte.value);
+});
+
+const fonteSalva = localStorage.getItem('font-family');
+const tipoFonte = document.querySelector('p');
+p.style.fontFamily = fonteSalva;
