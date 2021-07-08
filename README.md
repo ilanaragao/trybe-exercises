@@ -49,7 +49,7 @@
 - [:white_check_mark:] 5-1: JavaScript - DOM e seletores
 - [:white_check_mark:] 5-2: JavaScript - Trabalhando com elementos
 - [:white_check_mark:] 5-3: JavaScript - Eventos
-- [] 5-4: JavaScript - Web Storage
+- [:white_check_mark:] 5-4: JavaScript - Web Storage
 - [] 5-5: [Projeto - Arte com Pixels]()
 - [] 5-6: [Projeto - Lista de tarefas]()
 - [] 5-7: [Projeto - Meme Generator]()
