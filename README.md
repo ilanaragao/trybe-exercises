@@ -51,7 +51,7 @@
 - [:white_check_mark:] 5-3: JavaScript - Eventos
 - [:white_check_mark:] 5-4: JavaScript - Web Storage
 - [:white_check_mark:] 5-5: [Projeto - Pixels Art](https://github.com/tryber/sd-014-a-project-pixels-art/pull/19)
-- [] 5-6: [Projeto - Lista de tarefas]()
+- [:white_check_mark:] 5-6: [Projeto - To Do List](https://github.com/tryber/sd-014-a-project-todo-list/pull/18)
 - [] 5-7: [Projeto - Meme Generator]()
 - [] 5-7: [Projeto - Adivinhe a Cor]()
 - [] 5-7: [Projeto - Carta Misteriosa]()
