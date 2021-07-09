@@ -50,7 +50,7 @@
 - [:white_check_mark:] 5-2: JavaScript - Trabalhando com elementos
 - [:white_check_mark:] 5-3: JavaScript - Eventos
 - [:white_check_mark:] 5-4: JavaScript - Web Storage
-- [] 5-5: [Projeto - Arte com Pixels]()
+- [:white_check_mark:] 5-5: [Projeto - Pixels Art](https://github.com/tryber/sd-014-a-project-pixels-art/pull/19)
 - [] 5-6: [Projeto - Lista de tarefas]()
 - [] 5-7: [Projeto - Meme Generator]()
 - [] 5-7: [Projeto - Adivinhe a Cor]()
