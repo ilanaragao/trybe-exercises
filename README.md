@@ -54,4 +54,4 @@
 - [:white_check_mark:] 5-6: [Projeto - To Do List](https://github.com/tryber/sd-014-a-project-todo-list/pull/18)
 - [] 5-7: [Projeto - Meme Generator]()
 - [] 5-7: [Projeto - Adivinhe a Cor]()
-- [] 5-7: [Projeto - Carta Misteriosa]()
+- [:white_check_mark:] 5-7: [Projeto - Mistery Letter](https://github.com/tryber/sd-014-a-project-mistery-letter/pull/4)
