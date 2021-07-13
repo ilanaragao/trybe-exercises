@@ -53,5 +53,5 @@
 - [:white_check_mark:] 5-5: [Projeto - Pixels Art](https://github.com/tryber/sd-014-a-project-pixels-art/pull/19)
 - [:white_check_mark:] 5-6: [Projeto - To Do List](https://github.com/tryber/sd-014-a-project-todo-list/pull/18)
 - [:white_check_mark:] 5-7: [Projeto - Meme Generator](https://github.com/tryber/sd-014-a-project-meme-generator/pull/4)
-- [] 5-7: [Projeto - Adivinhe a Cor]()
+- [:white_check_mark:] 5-7: [Projeto - Color Guess](https://github.com/tryber/sd-014-a-project-color-guess/pull/3)
 - [:white_check_mark:] 5-7: [Projeto - Mistery Letter](https://github.com/tryber/sd-014-a-project-mistery-letter/pull/4)
