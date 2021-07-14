@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -55,6 +55,30 @@
             required
           />
           <label for="moradia2">Apartamento</label>
+        </fieldset>
+        <fieldset>
+          <legend>Experiências</legend>
+          <label for="resumo">Resumo do currículo</label>
+          <textarea
+            name="resumo"
+            id="resumo"
+            cols="30"
+            rows="10"
+            maxlength="1000"
+            required
+          ></textarea>
+          <label for="cargo">Cargo</label>
+          <input name="cargo" type="text" maxlength="40" id="cargo" required />
+          <label for="descricao-cargo">Descrição do cargo</label>
+          <input
+            name="descricao-cargo"
+            type="text"
+            maxlength="500"
+            id="descricao-cargo"
+            required
+          />
+          <label for="data">Data de início</label>
+          <input type="text" name="data" id="data" required />
         </fieldset>
       </form>
     </main>
