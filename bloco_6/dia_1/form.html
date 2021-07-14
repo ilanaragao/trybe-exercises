@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <main>
+      <h1>Formulário</h1>
+      <form action="" method="GET">
+        <fieldset>
+          <legend>Dados Pessoais</legend>
+          <label for="name">Nome</label>
+          <input name="name" type="text" maxlength="40" id="name" required />
+          <label for="email">Email</label>
+          <input name="email" type="text" maxlength="50" id="email" required />
+          <label for="cpf">Cpf</label>
+          <input name="cpf" type="text" maxlength="11" id="cpf" required />
+          <label for="endereco">Endereço</label>
+          <input
+            name="endereco"
+            type="text"
+            maxlength="200"
+            id="endereco"
+            required
+          />
+          <label for="cidade">Cidade</label>
+          <input
+            name="cidade"
+            type="text"
+            maxlength="28"
+            id="cidade"
+            required
+          />
+          <label for="estado">Estado</label>
+          <select name="estado" id="estado" required>
+            <option disabled selected>Selecione seu estado</option>
+          </select>
+          <label>Tipo de imóvel:</label>
+          <input
+            type="radio"
+            name="moradia"
+            id="moradia1"
+            value="casa"
+            required
+          />
+          <label for="moradia1">Casa</label>
+          <input
+            type="radio"
+            name="moradia"
+            id="moradia2"
+            value="apartmento"
+            required
+          />
+          <label for="moradia2">Apartamento</label>
+        </fieldset>
+        <input type="submit" value="A">
+      </form>
+    </main>
+    <script src="script.js"></script>
+  </body>
+</html>
