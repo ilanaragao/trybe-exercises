@@ -55,3 +55,12 @@
 - [:white_check_mark:] 5-7: [Projeto - Meme Generator](https://github.com/tryber/sd-014-a-project-meme-generator/pull/4)
 - [:white_check_mark:] 5-7: [Projeto - Color Guess](https://github.com/tryber/sd-014-a-project-color-guess/pull/3)
 - [:white_check_mark:] 5-7: [Projeto - Mistery Letter](https://github.com/tryber/sd-014-a-project-mistery-letter/pull/4)
+
+##### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo
+
+- [] 6-1: HTML & CSS - Forms
+- [] 6-2: Bibliotecas JavaScript e Frameworks CSS
+- [] 6-3: CSS Flexbox - Parte 1
+- [] 6-4: CSS Flexbox - Parte 2
+- [] 6-5: CSS Responsivo - Mobile First
+- [] 6-6: [Projeto - Trybewarts]()
