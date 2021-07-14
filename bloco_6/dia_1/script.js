@@ -36,4 +36,14 @@ function estados() {
     uf.appendChild(criaEstados).value = nomeEstados[index];
   }
 }
-estados();
+
+function validar(event) {
+  event.preventDefault();
+}
+
+window.onload = function () {
+  estados();
+
+  const botaoEnviar = document.querySelector("#enviar");
+  botaoEnviar.addEventListener("click", validar);
+};
