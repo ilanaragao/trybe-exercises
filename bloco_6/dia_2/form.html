@@ -20,7 +20,7 @@
   <body>
     <main>
       <h1>Formulário</h1>
-      <form action="" method="GET">
+      <form action="" method="GET" class="js-form">
         <legend>Dados Pessoais</legend>
         <div class="mb-3">
           <label class="form-label" for="name">Nome</label>
@@ -30,6 +30,7 @@
             type="text"
             maxlength="40"
             id="name"
+            data-validate-field="name"
             required
           />
         </div>
@@ -40,6 +41,7 @@
             name="email"
             type="text"
             maxlength="50"
+            data-validate-field="email"
             id="email"
             required
           />
@@ -51,6 +53,7 @@
             name="cpf"
             type="text"
             maxlength="11"
+            data-validate-field="cpf"
             id="cpf"
             required
           />
@@ -62,6 +65,7 @@
             name="endereco"
             type="text"
             maxlength="200"
+            data-validate-field="address"
             id="endereco"
             required
           />
@@ -73,13 +77,14 @@
             name="cidade"
             type="text"
             maxlength="28"
+            data-validate-field="city"
             id="cidade"
             required
           />
         </div>
         <div class="mb-3">
           <label class="form-label" for="estado">Estado</label>
-          <select class="form-select" name="estado" id="estado" required>
+          <select class="form-select" data-validate-field="state" name="estado" id="estado" required>
             <option disabled selected>Selecione seu estado</option>
           </select>
         </div>
@@ -180,6 +185,6 @@
       </form>
     </main>
     <script src="https://cdn.jsdelivr.net/npm/pikaday/pikaday.js"></script>
-    <script src="script.js"></script>
+    <script src="script.js" type="module"></script>
   </body>
 </html>
