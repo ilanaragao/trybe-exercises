@@ -10,7 +10,7 @@
 👤 **Ilan Aragão Souza**
 
 * LinkedIn: https://www.linkedin.com/in/ilanaragao/
-* Github: [@ilanaragao](https://github.com/ilanaragao)
+* Github: [ilanaragao](https://github.com/ilanaragao)
 
 <h4 align="center"> 
 	🚧  Trybe Exercises 🚀  
