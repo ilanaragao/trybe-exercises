@@ -61,7 +61,7 @@
 - [:white_check_mark:] 6-1: HTML & CSS - Forms
 - [:white_check_mark:] 6-2: Bibliotecas JavaScript e Frameworks CSS
 - [:white_check_mark:] 6-3: CSS Flexbox - Parte 1
-- [] 6-4: CSS Flexbox - Parte 2
+- [:white_check_mark:] 6-4: CSS Flexbox - Parte 2
 - [] 6-5: CSS Responsivo - Mobile First
 - [] 6-6: [Projeto - Trybewarts]()
 
