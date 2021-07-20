@@ -83,3 +83,9 @@ p strong {
     display: block;
   }
 }
+
+@media (max-width: 500px) {
+  p.trick {
+    color: black;
+  }
+}
