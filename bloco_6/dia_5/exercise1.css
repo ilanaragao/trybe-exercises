@@ -16,6 +16,24 @@ img {
 }
 
 figure {
+  background: white;
   margin: 0 0 15px 0;
   padding: 15px;
+  text-align: center;
+}
+
+@media screen and (min-width: 794px) {
+  body {
+    background: lightblue;
+    color: white;
+    margin: 25px;
+  }
+
+  figure {
+    float: left;
+    margin-right: 30px;
+  }
+  figcaption {
+    color: black;
+  }
 }
