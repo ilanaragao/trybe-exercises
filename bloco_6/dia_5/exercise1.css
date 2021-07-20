@@ -30,10 +30,25 @@ figure {
   }
 
   figure {
+    width: 41%;
     float: left;
     margin-right: 30px;
   }
   figcaption {
     color: black;
+  }
+}
+
+@media screen and (min-width: 1020px) {
+  body {
+    background: rgba(0, 255, 0, 0.2);
+    margin: 25px 10%;
+    max-width: 1130px;
+    color: black;
+  }
+
+  figure {
+    width: 43%;
+    margin-right: 2.5%;
   }
 }
