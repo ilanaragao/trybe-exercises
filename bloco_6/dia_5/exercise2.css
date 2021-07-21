@@ -27,11 +27,29 @@ p {
 }
 
 @media screen and (min-width: 600px) {
+  .container {
+    display: flex;
+  }
+
   body {
     background-color: lightblue;
   }
 
   .container {
     flex-wrap: wrap;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  .container {
+    display: flex;
+  }
+
+  body {
+    background-color: lightgreen;
+  }
+
+  .container {
+    flex-wrap: nowrap;
   }
 }
