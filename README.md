@@ -62,8 +62,8 @@
 - [:white_check_mark:] 6-2: Bibliotecas JavaScript e Frameworks CSS
 - [:white_check_mark:] 6-3: CSS Flexbox - Parte 1
 - [:white_check_mark:] 6-4: CSS Flexbox - Parte 2
-- [] 6-5: CSS Responsivo - Mobile First
-- [] 6-6: [Projeto - Trybewarts]()
+- [:white_check_mark:] 6-5: CSS Responsivo - Mobile First
+- [:white_check_mark:] 6-6: [Projeto - Trybewarts](https://github.com/tryber/sd-014-a-project-trybewarts/pull/36)
 
 ##### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários
 
