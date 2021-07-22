@@ -10,14 +10,20 @@ if (true) {
 }
 console.log(userAge);
 
-const myName = "Isabella"
+const myName = "Isabella";
 console.log(`Welcome ${myName}!`);
 
-// Com o template literals
 console.log(`Primeira linha;
 Segunda linha;
-Terceira linha;`
-)
+Terceira linha;`);
 
 const printName = () => "Lucas";
 console.log(printName());
+
+`expressão verdadeira ou falsa` ? `retorno se verdadeira` : `retorno se falsa`;
+
+const trueExpression = 1 + 1 === 2 ? `isso é verdade` : `isso é mentira`;
+console.log(trueExpression);
+
+const falseExpression = 2 + 2 === 3 ? `isso é verdade` : `isso é mentira`;
+console.log(falseExpression);
