@@ -9,3 +9,12 @@ if (true) {
   console.log(userAge);
 }
 console.log(userAge);
+
+const myName = "Isabella"
+console.log(`Welcome ${myName}!`);
+
+// Com o template literals
+console.log(`Primeira linha;
+Segunda linha;
+Terceira linha;`
+)
