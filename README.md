@@ -67,7 +67,7 @@
 
 ##### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários
 
-- [] 7-1: JavaScript ES6 - let, const, arrow functions e template literals
+- [:white_check_mark:] 7-1: JavaScript ES6 - let, const, arrow functions e template literals
 - [] 7-2: JavaScript ES6 - Objects
 - [] 7-3: Testes unitários em JavaScript
 - [] 7-4: [Projeto - JavaScript Testes Unitários]()
