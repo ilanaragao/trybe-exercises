@@ -18,3 +18,6 @@ console.log(`Primeira linha;
 Segunda linha;
 Terceira linha;`
 )
+
+const printName = () => "Lucas";
+console.log(printName());
