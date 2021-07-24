@@ -45,3 +45,6 @@ const getNumberOfStudents = (obj) => {
   return total;
 };
 console.log(getNumberOfStudents(allLessons));
+
+const getValueByNumber = (obj, number) => Object.values(obj)[number];
+console.log(getValueByNumber(lesson3, 2));
