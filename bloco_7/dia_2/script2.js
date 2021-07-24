@@ -32,3 +32,6 @@ console.log(sizeObj(lesson1));
 
 const listValues = (obj) => Object.values(obj);
 console.log(listValues(lesson1));
+
+const allLessons = Object.assign({}, { lesson1, lesson2, lesson3 });
+console.log(allLessons);
