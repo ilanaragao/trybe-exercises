@@ -12,3 +12,9 @@ const people = [
 people.sort((x, y) => x.age - y.age);
 
 console.log(people);
+
+/* Fixação 2 */
+
+people.sort((x, y) => y.age - x.age);
+
+console.log(people);
