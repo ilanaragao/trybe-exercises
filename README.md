@@ -79,4 +79,4 @@
 - [:white_check_mark:] 8-3: JavaScript ES6 - Higher Order Functions - map e filter
 - [:white_check_mark:] 8-4: JavaScript ES6 - Higher Order Functions - reduce
 - [] 8-5: JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
-- [] 8-6: [Projeto - Zoo functions]()
+- [] 8-6: [Projeto - Zoo functions](https://github.com/tryber/sd-014-a-project-zoo-functions/pull/11)
