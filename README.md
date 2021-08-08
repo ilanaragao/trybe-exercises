@@ -80,3 +80,9 @@
 - [:white_check_mark:] 8-4: JavaScript ES6 - Higher Order Functions - reduce
 - [:white_check_mark:] 8-5: JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
 - [:white_check_mark:] 8-6: [Projeto - Zoo functions](https://github.com/tryber/sd-014-a-project-zoo-functions/pull/11)
+
+##### Bloco 9: JavaScript Assíncrono e Promises
+
+- [] 9-1: JavaScript Assíncrono e Callbacks
+- [] 9-2: JavaScript Promises
+- [] 9-3: [Projeto - Carrinho de Compras]()
