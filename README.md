@@ -84,7 +84,7 @@
 ##### Bloco 9: JavaScript Assíncrono e Promises
 
 - [:white_check_mark:] 9-1: JavaScript Assíncrono e Callbacks
-- [] 9-2: JavaScript Promises
+- [:white_check_mark:] 9-2: JavaScript Promises
 - [] 9-3: [Projeto - Carrinho de Compras](https://github.com/tryber/sd-014-a-project-shopping-cart/pull/7)
 
 ##### Bloco 10: Testes automatizados com Jest
