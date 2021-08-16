@@ -93,3 +93,11 @@
 - [] 10-2: Jest - Testes Assíncronos
 - [] 10-3: Jest - Simulando comportamentos
 - [] 10-4: [Projeto - Jest Assíncrono e Mocking]()
+
+##### Bloco 11: Testes automatizados com Jest
+
+- [] 11-1: Introdução - Front-end
+- [] 11-1: Introdução - React
+- [] 11-1: 'Hello, world!' no React!
+- [] 11-2: Componentes React
+- [] 11-3: [Projeto - Movie Cards Library]()
