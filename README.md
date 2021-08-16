@@ -99,7 +99,7 @@
 - [] 10-3: Jest - Simulando comportamentos
 - [] 10-4: [Projeto - Jest Assíncrono e Mocking]()
 
-##### Bloco 11: Testes automatizados com Jest
+##### Bloco 11: Introdução à React
 
 - [] 11-1: Introdução - Front-end
 - [] 11-1: Introdução - React
