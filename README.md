@@ -41,6 +41,7 @@
 
 ##### Bloco 4: Introdução à JavaScript e Lógica de Programação
 
+- [:white_check_mark:] 4-1: Introdução - JavaScript
 - [:white_check_mark:] 4-1: JavaScript - Primeiros passos
 - [:white_check_mark:] 4-2: JavaScript - Array e loop For
 - [:white_check_mark:] 4-3: JavaScript - Lógica de Programação e Algoritmos
