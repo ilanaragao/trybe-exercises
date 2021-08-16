@@ -32,6 +32,7 @@
 
 ##### Bloco 3: Introdução à HTML e CSS
 
+- [:white_check_mark:] 3-1: HTML & CSS - Introdução - HTML & CSS
 - [:white_check_mark:] 3-1: HTML & CSS - Estruturas de página
 - [:white_check_mark:] 3-2: HTML & CSS - Primeiros passos em CSS
 - [:white_check_mark:] 3-3: HTML & CSS - Seletores e posicionamento
