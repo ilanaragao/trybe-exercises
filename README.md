@@ -19,6 +19,8 @@
 
 ##### Bloco 1: Unix & Bash
 
+- [:white_check_mark:] 1-3: Fundamentos do Desenvolvimento Web
+- [:white_check_mark:] 1-3: Introdução - Unix & Shell
 - [:white_check_mark:] 1-3: Unix & Bash - Part 1
 - [:white_check_mark:] 1-4: Unix & Bash - Part 2
 
