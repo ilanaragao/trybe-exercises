@@ -97,7 +97,7 @@
 - [:white_check_mark:] 10-1: Primeiros passos no Jest
 - [:white_check_mark:] 10-2: Jest - Testes Assíncronos
 - [] 10-3: Jest - Simulando comportamentos
-- [] 10-4: [Projeto - Jest Assíncrono e Mocking]()
+- [:white_check_mark:] 10-4: [Projeto - Jest Assíncrono e Mocking](https://github.com/tryber/sd-014-a-project-jest/pull/6)
 
 ##### Bloco 11: Introdução à React
 
