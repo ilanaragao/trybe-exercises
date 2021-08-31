@@ -4,6 +4,7 @@ import './index.css';
 import Greeting from './components/Greeting';
 import Image from './components/Image';
 import Album from './components/Album';
+import UserProfile from './components/UserProfile'
 import reportWebVitals from './reportWebVitals';
 
 const album01 = {
@@ -34,6 +35,20 @@ const album02 = {
   }
 };
 
+const joao = {
+  id: 102,
+  name: "João",
+  email: "joao@gmail.com",
+  avatar: "https://cdn.pixabay.com/photo/2016/08/20/05/38/avatar-1606916_640.png"
+};
+
+const amelia = {
+  id: 77,
+  name: "Amélia",
+  email: "amelia@gmail.com",
+  avatar: "https://cdn.pixabay.com/photo/2017/01/31/13/05/cameo-2023867_640.png"
+};
+
 ReactDOM.render(
   <React.StrictMode>
     <>
@@ -44,6 +59,8 @@ ReactDOM.render(
       />
       <Album album={album01} />
       <Album album={album02} />
+      <UserProfile user={joao} />
+      <UserProfile user={amelia} />
     </>
   </React.StrictMode>,
   document.getElementById('root')
