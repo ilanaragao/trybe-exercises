@@ -102,7 +102,7 @@
 ##### Bloco 11: Introdução à React
 
 - [:white_check_mark:] 11-1: Introdução - Front-end
-- [] 11-1: Introdução - React
+- [:white_check_mark:] 11-1: Introdução - React
 - [] 11-1: 'Hello, world!' no React!
 - [] 11-2: Componentes React
 - [] 11-3: [Projeto - Movie Cards Library]()
