@@ -105,4 +105,4 @@
 - [:white_check_mark:] 11-1: Introdução - React
 - [:white_check_mark:] 11-1: 'Hello, world!' no React!
 - [:white_check_mark:] 11-2: Componentes React
-- [] 11-3: [Projeto - Movie Cards Library]()
+- [] 11-3: [Projeto - Movie Cards Library](https://github.com/tryber/sd-014-a-project-movie-cards-library/pull/15)
