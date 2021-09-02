@@ -106,3 +106,9 @@
 - [:white_check_mark:] 11-1: 'Hello, world!' no React!
 - [:white_check_mark:] 11-2: Componentes React
 - [:white_check_mark:] 11-3: [Projeto - Movie Cards Library](https://github.com/tryber/sd-014-a-project-movie-cards-library/pull/15)
+
+##### Bloco 12: Componentes com Estado, Eventos e Formulários com React
+
+- [:white_check_mark:] 12-1: Componentes com estado e eventos
+- [:white_check_mark:] 12-2: Formulários no React
+- [:white_check_mark:] 12-3: [Projeto - Movie Cards Library Stateful]()
