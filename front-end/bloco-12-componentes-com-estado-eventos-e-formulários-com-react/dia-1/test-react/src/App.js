@@ -16,20 +16,20 @@ class App extends Component {
   }
 
   handleClickOne() {
-    this.setState(() => ({
-      countOne: 1,
+    this.setState((prevState) => ({
+      countOne: prevState.countOne + 1,
     }));
   }
 
   handleClickTwo() {
-    this.setState(() => ({
-      countTwo: 1,
+    this.setState((prevState) => ({
+      countTwo: prevState.countTwo + 1,
     }));
   }
 
   handleClickThree() {
-    this.setState(() => ({
-      countThree: 1,
+    this.setState(( { countThree } ) => ({
+      countThree: countThree + 1,
     }));
   }
 
