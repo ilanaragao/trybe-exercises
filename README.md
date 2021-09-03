@@ -118,3 +118,8 @@
 - [] 13-1: Ciclo de vida de componentes
 - [] 13-2: React Router
 - [] 13-3: [Projeto - Movie Cards Library CRUD]()
+
+##### Bloco 14 - Metodologias Ágeis
+
+- [] 14-1: Metodologias Ágeis
+- [] 14-2: [Projeto - Frontend Online Store]()
