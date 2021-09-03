@@ -18,19 +18,25 @@ class App extends Component {
   handleClickOne() {
     this.setState((prevState) => ({
       countOne: prevState.countOne + 1,
-    }));
+    }), () => {
+      console.log(this.buttonColor(this.state.countOne));
+    });
   }
 
   handleClickTwo() {
     this.setState((prevState) => ({
       countTwo: prevState.countTwo + 1,
-    }));
+    }), () => {
+      console.log(this.buttonColor(this.state.countTwo));
+    });
   }
 
   handleClickThree() {
     this.setState((prevState) => ({
       countThree: prevState.countThree + 1,
-    }));
+    }), () => {
+      console.log(this.buttonColor(this.state.countThree));
+    });
   }
 
   buttonColor(color) {
