@@ -28,17 +28,36 @@ class App extends Component {
   }
 
   handleClickThree() {
-    this.setState(( { countThree } ) => ({
-      countThree: countThree + 1,
+    this.setState((prevState) => ({
+      countThree: prevState.countThree + 1,
     }));
+  }
+
+  buttonColor(color) {
+    return color % 2 === 0 ? 'green' : 'blue';
   }
 
   render() {
     return (
       <div>
-        <button onClick={this.handleClickOne}>Me click!</button>
-        <button onClick={this.handleClickTwo}>Me click!</button>
-        <button onClick={this.handleClickThree}>Me click!</button>
+        <button
+          onClick={this.handleClickOne}
+          style={{ backgroundColor: this.buttonColor(this.state.countOne) }}
+        >
+          Me click! / Count = {this.state.countOne}
+        </button>
+        <button
+          onClick={this.handleClickTwo}
+          style={{ backgroundColor: this.buttonColor(this.state.countTwo) }}
+        >
+          Me click! / Count = {this.state.countTwo}
+        </button>
+        <button
+          onClick={this.handleClickThree}
+          style={{ backgroundColor: this.buttonColor(this.state.countThree) }}
+        >
+          Me click! / Count = {this.state.countThree}
+        </button>
       </div>
     );
   }
