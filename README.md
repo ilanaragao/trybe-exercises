@@ -112,3 +112,9 @@
 - [:white_check_mark:] 12-1: Componentes com estado e eventos
 - [:white_check_mark:] 12-2: Formulários no React
 - [:white_check_mark:] 12-3: [Projeto - Movie Cards Library Stateful]()
+
+##### Bloco 13 - Ciclo de Vida de Componentes e React Router
+
+- [:white_check_mark:] 13-1: Ciclo de vida de componentes
+- [:white_check_mark:] 13-2: React Router
+- [:white_check_mark:] 13-3: [Projeto - Movie Cards Library CRUD]()
