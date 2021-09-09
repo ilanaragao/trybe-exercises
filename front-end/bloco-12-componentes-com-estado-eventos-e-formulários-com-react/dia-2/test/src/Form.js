@@ -88,6 +88,7 @@ class Form extends Component {
             Concordo com termos e acordos
           </label>
 
+          <input type="file" />
         </form>
       </div>
     );
