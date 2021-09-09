@@ -110,7 +110,7 @@
 ##### Bloco 12: Componentes com Estado, Eventos e Formulários com React
 
 - [:white_check_mark:] 12-1: Componentes com estado e eventos
-- [] 12-2: Formulários no React
+- [:white_check_mark:] 12-2: Formulários no React
 - [:white_check_mark:] 12-3: [Projeto - Movie Cards Library Stateful](https://github.com/tryber/sd-014-a-project-movie-cards-library-stateful/pull/55)
 
 ##### Bloco 13 - Ciclo de Vida de Componentes e React Router
