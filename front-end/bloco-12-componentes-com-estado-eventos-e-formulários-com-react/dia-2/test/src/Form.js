@@ -5,19 +5,24 @@ class Form extends Component {
     super();
 
     this.state = {
+      name: '',
       email: '',
+      age: '',
+      anecdote: '',
     };
+
     this.handleChange = this.handleChange.bind(this);
   }
 
-  handleChange(event) {
+  handleChange({ target }) {
+    const { name, value } = target;
     this.setState({
-      email: event.target.value,
+      [name]: value,
     });
   }
 
   render() {
-    const { email } = this.state;
+    const { name, email, age, anecdote } = this.state;
 
     return (
       <div>
@@ -30,6 +35,8 @@ class Form extends Component {
               id="name"
               name="name"
               type="text"
+              onChange={ this.handleChange }
+              value={ name }
             />
           </label>
 
@@ -49,7 +56,8 @@ class Form extends Component {
             <select
               id="age"
               name="age"
-              defaultValue=""
+              onChange={ this.handleChange }
+              value={ age }
             >
               <option value="">Selecione</option>
               <option value="adult">Maior que 18</option>
@@ -59,7 +67,12 @@ class Form extends Component {
 
           <label htmlFor="anecdote">
             Anedota:
-            <textarea id="anecdote" name="anecdote" />
+            <textarea
+              id="anecdote"
+              name="anecdote"
+              onChange={ this.handleChange }
+              value={ anecdote }
+            />
           </label>
 
         </form>
