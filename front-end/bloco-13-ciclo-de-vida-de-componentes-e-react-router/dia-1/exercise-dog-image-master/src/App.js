@@ -13,6 +13,20 @@ class App extends React.Component {
     this.fetchDog();
   }
 
+  shouldComponentUpdate(nextProps, nextState) {
+    if (nextState.data.message.includes('terrier')) {
+      return false;
+    }
+    return true;
+  }
+
+  componentDidUpdate() {
+    const { data } = this.state;
+    localStorage.setItem('doginho', data.message);
+    const dog = data.message.split('/')[4];
+    alert(`O novo doguinho é ${dog}`);
+  }
+
   fetchDog() {
     fetch('https://dog.ceo/api/breeds/image/random')
       .then((data) => data.json())
@@ -26,11 +40,11 @@ class App extends React.Component {
     return (
       <div>
         <p>Doguinhos</p>
-        <button type="button" onClick={ this.fetchDog }>
+        <button type="button" onClick={this.fetchDog}>
           Novo doguinho!
         </button>
         <div>
-          <img src={ message } alt="Random dog" />
+          <img src={message} alt="Random dog" />
         </div>
       </div>
     );
