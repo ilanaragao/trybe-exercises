@@ -24,7 +24,7 @@ class App extends React.Component {
     const { data } = this.state;
     localStorage.setItem('doginho', data.message);
     const dog = data.message.split('/')[4];
-    alert(`O novo doguinho é ${dog}`);
+    alert(`O novo doguinho é da raça ${dog}`);
   }
 
   fetchDog() {
