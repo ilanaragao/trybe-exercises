@@ -123,3 +123,10 @@
 
 - [] 14-1: Metodologias Ágeis
 - [] 14-2: [Projeto - Frontend Online Store]()
+
+##### Bloco 15 - Testes automatizados com React Testing Library
+
+- [] 15-1: RTL - Primeiros passos
+- [] 15-2: RTL - Mocks e Inputs
+- [] 15-3: RTL - Testando React Router
+- [] 15-4: [Projeto - Testes em React]()
