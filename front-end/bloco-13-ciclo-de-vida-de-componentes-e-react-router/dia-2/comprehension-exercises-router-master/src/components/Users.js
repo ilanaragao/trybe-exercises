@@ -2,11 +2,12 @@ import React, { Component } from 'react';
 
 class Users extends Component {
   render() {
+    const { greetingMessage = 'Hello' } = this.props;
     return (
-      <div>
+      <main>
         <h2>Users</h2>
-        <p> My awesome Users component </p>
-      </div>
+        <p> { greetingMessage } this is my awesome Users component </p>
+      </main>
     );
   }
 };
