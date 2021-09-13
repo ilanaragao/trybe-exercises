@@ -116,7 +116,7 @@
 ##### Bloco 13 - Ciclo de Vida de Componentes e React Router
 
 - [:white_check_mark:] 13-1: Ciclo de vida de componentes
-- [] 13-2: React Router
+- [:white_check_mark:] 13-2: React Router
 - [] 13-3: [Projeto - Movie Cards Library CRUD]()
 
 ##### Bloco 14 - Metodologias Ágeis
