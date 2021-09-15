@@ -117,7 +117,7 @@
 
 - [:white_check_mark:] 13-1: Ciclo de vida de componentes
 - [:white_check_mark:] 13-2: React Router
-- [] 13-3: [Projeto - Movie Cards Library CRUD]()
+- [] 13-3: [Projeto - Trybetunes]()
 
 ##### Bloco 14 - Metodologias Ágeis
 
