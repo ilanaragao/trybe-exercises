@@ -121,7 +121,7 @@
 
 ##### Bloco 14 - Metodologias Ágeis
 
-- [] 14-1: Metodologias Ágeis
+- [:white_check_mark:] 14-1: Metodologias Ágeis
 - [] 14-2: [Projeto - Frontend Online Store]()
 
 ##### Bloco 15 - Testes automatizados com React Testing Library
