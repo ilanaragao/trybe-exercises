@@ -117,7 +117,7 @@
 
 - [:white_check_mark:] 13-1: Ciclo de vida de componentes
 - [:white_check_mark:] 13-2: React Router
-- [] 13-3: [Projeto - Trybetunes](https://github.com/tryber/sd-014-a-project-trybetunes/pull/43)
+- [:white_check_mark:] 13-3: [Projeto - Trybetunes](https://github.com/tryber/sd-014-a-project-trybetunes/pull/43)
 
 ##### Bloco 14 - Metodologias Ágeis
 
