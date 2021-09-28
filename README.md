@@ -127,6 +127,6 @@
 ##### Bloco 15 - Testes automatizados com React Testing Library
 
 - [:white_check_mark:] 15-1: RTL - Primeiros passos
-- [] 15-2: RTL - Mocks e Inputs
+- [:white_check_mark:] 15-2: RTL - Mocks e Inputs
 - [] 15-3: RTL - Testando React Router
 - [] 15-4: [Projeto - Testes em React]()
