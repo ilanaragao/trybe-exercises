@@ -128,5 +128,5 @@
 
 - [:white_check_mark:] 15-1: RTL - Primeiros passos
 - [:white_check_mark:] 15-2: RTL - Mocks e Inputs
-- [] 15-3: RTL - Testando React Router
+- [:white_check_mark:] 15-3: RTL - Testando React Router
 - [] 15-4: [Projeto - Testes em React]()
