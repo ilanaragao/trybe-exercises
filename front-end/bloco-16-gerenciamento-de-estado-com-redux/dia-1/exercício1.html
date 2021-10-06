@@ -33,14 +33,21 @@
       <button id="next">Next color</button>
     </div>
     <script>
-
+      
       const ESTADO_INICIAL = {
         colors: ['white', 'black', 'red', 'green', 'blue', 'yellow'],
         index: 0,
       };
 
+      const reduce = (state = ESTADO_INICIAL, action) => {
+        switch (action.type) {
+          default:
+            return state;
+        }
+      };
+
       const store = Redux.createStore();
-      
+
     </script>
   </body>
 </html>
