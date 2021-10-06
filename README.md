@@ -130,3 +130,12 @@
 - [:white_check_mark:] 15-2: RTL - Mocks e Inputs
 - [:white_check_mark:] 15-3: RTL - Testando React Router
 - [:white_check_mark:] 15-4: [Projeto - Testes em React](https://github.com/tryber/sd-014-a-project-react-testing-library)
+
+##### Bloco 16 - Gerenciamento de estado com Redux
+
+- [] 16-1: Introdução ao Redux - O estado global da aplicação
+- [] 16-2: Usando o Redux no React
+- [] 16-3: Usando o Redux no React - Prática
+- [] 16-4: Usando o Redux no React - Actions Assíncronas
+- [] 16-5: Testes em React-Redux
+- [] 16-6: [Projeto - Trybe Wallet]()
