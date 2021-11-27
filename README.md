@@ -133,9 +133,9 @@
 
 ##### Bloco 16 - Gerenciamento de estado com Redux
 
-- [] 16-1: Introdução ao Redux - O estado global da aplicação
-- [] 16-2: Usando o Redux no React
-- [] 16-3: Usando o Redux no React - Prática
-- [] 16-4: Usando o Redux no React - Actions Assíncronas
-- [] 16-5: Testes em React-Redux
-- [] 16-6: [Projeto - Trybe Wallet]()
+- [:white_check_mark:] 16-1: Introdução ao Redux - O estado global da aplicação
+- [:white_check_mark:] 16-2: Usando o Redux no React
+- [:white_check_mark:] 16-3: Usando o Redux no React - Prática
+- [:white_check_mark:] 16-4: Usando o Redux no React - Actions Assíncronas
+- [:white_check_mark:] 16-5: Testes em React-Redux
+- [:white_check_mark:] 16-6: [Projeto - Trybe Wallet](https://github.com/tryber/sd-014-a-project-trybewallet)
