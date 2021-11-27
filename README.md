@@ -122,14 +122,14 @@
 ##### Bloco 14 - Metodologias Ágeis
 
 - [:white_check_mark:] 14-1: Metodologias Ágeis
-- [:white_check_mark:] 14-2: [Projeto - Frontend Online Store](https://github.com/tryber/sd-014-a-project-frontend-online-store)
+- [:white_check_mark:] 14-2: [Projeto - Frontend Online Store](https://github.com/tryber/sd-014-a-project-frontend-online-store/pull/476)
 
 ##### Bloco 15 - Testes automatizados com React Testing Library
 
 - [:white_check_mark:] 15-1: RTL - Primeiros passos
 - [:white_check_mark:] 15-2: RTL - Mocks e Inputs
 - [:white_check_mark:] 15-3: RTL - Testando React Router
-- [:white_check_mark:] 15-4: [Projeto - Testes em React](https://github.com/tryber/sd-014-a-project-react-testing-library)
+- [:white_check_mark:] 15-4: [Projeto - Testes em React](https://github.com/tryber/sd-014-a-project-react-testing-library/pull/106)
 
 ##### Bloco 16 - Gerenciamento de estado com Redux
 
@@ -138,15 +138,19 @@
 - [:white_check_mark:] 16-3: Usando o Redux no React - Prática
 - [:white_check_mark:] 16-4: Usando o Redux no React - Actions Assíncronas
 - [:white_check_mark:] 16-5: Testes em React-Redux
-- [:white_check_mark:] 16-6: [Projeto - Trybe Wallet](https://github.com/tryber/sd-014-a-project-trybewallet)
+- [:white_check_mark:] 16-6: [Projeto - Trybe Wallet](https://github.com/tryber/sd-014-a-project-trybewallet/pull/44)
 
 ##### Bloco 17 - Projeto Jogo de Trivia
 
-- [:white_check_mark:] 17-1: [Projeto - Jogo de Trivia](https://github.com/tryber/sd-014-a-project-trivia-react-redux)
+- [:white_check_mark:] 17-1: [Projeto - Jogo de Trivia](https://github.com/tryber/sd-014-a-project-trivia-react-redux/pull/428)
 
 ##### Bloco 18 - Context API e React Hooks
 
 - [:white_check_mark:] 18-1: Context API do React
 - [:white_check_mark:] 18-2: React Hooks - useState e useContext
 - [:white_check_mark:] 18-3: React Hooks - useEffect e Hooks customizados
-- [:white_check_mark:] 18-4: [Projeto - StarWars Datatable com Context API e Hooks](https://github.com/tryber/sd-014-a-project-starwars-planets-search)
+- [:white_check_mark:] 18-4: [Projeto - StarWars Datatable com Context API e Hooks](https://github.com/tryber/sd-014-a-project-starwars-planets-search/pull/60)
+
+##### Bloco 19 - Projeto App de Receitas
+
+- [:white_check_mark:] 19-1: [Projeto - App de Receitas](https://github.com/tryber/sd-014-a-project-recipes-app/pull/65)
