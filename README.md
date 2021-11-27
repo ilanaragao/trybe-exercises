@@ -154,3 +154,11 @@
 ##### Bloco 19 - Projeto App de Receitas
 
 - [:white_check_mark:] 19-1: [Projeto - App de Receitas](https://github.com/tryber/sd-014-a-project-recipes-app/pull/65)
+
+##### Bloco 20 - Docker: Utilizando Containers
+
+- [:white_check_mark:] 20-1: Introdução - Back-end
+- [:white_check_mark:] 20-1: Utilizando Containers - Docker
+- [:white_check_mark:] 20-2: Manipulação e Criação de Imagens no Docker
+- [] 20-3: Orquestrando Containers com Docker Compose
+- [] 20-4: [Projeto - Docker Todo-List]()
