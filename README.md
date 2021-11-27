@@ -143,3 +143,10 @@
 ##### Bloco 17 - Projeto Jogo de Trivia
 
 - [:white_check_mark:] 17-1: [Projeto - Jogo de Trivia](https://github.com/tryber/sd-014-a-project-trivia-react-redux)
+
+##### Bloco 18 - Context API e React Hooks
+
+- [:white_check_mark:] 18-1: Context API do React
+- [:white_check_mark:] 18-2: React Hooks - useState e useContext
+- [:white_check_mark:] 18-3: React Hooks - useEffect e Hooks customizados
+- [:white_check_mark:] 18-4: [Projeto - StarWars Datatable com Context API e Hooks](https://github.com/tryber/sd-014-a-project-starwars-planets-search)
