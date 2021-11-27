@@ -139,3 +139,7 @@
 - [:white_check_mark:] 16-4: Usando o Redux no React - Actions Assíncronas
 - [:white_check_mark:] 16-5: Testes em React-Redux
 - [:white_check_mark:] 16-6: [Projeto - Trybe Wallet](https://github.com/tryber/sd-014-a-project-trybewallet)
+
+##### Bloco 17 - Projeto Jogo de Trivia
+
+- [:white_check_mark:] 17-1: [Projeto - Jogo de Trivia](https://github.com/tryber/sd-014-a-project-trivia-react-redux)
