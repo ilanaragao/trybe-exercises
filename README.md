@@ -162,3 +162,12 @@
 - [:white_check_mark:] 20-2: Manipulação e Criação de Imagens no Docker
 - [:white_check_mark:] 20-3: Orquestrando Containers com Docker Compose
 - [:white_check_mark:] 20-4: [Projeto - Docker Todo-List]()
+
+##### Bloco 21 - Introdução à SQL
+
+- [:white_check_mark:] 21-1: Introdução - Bancos de dados relacionais
+- [:white_check_mark:] 21-1: Banco de dados SQL
+- [] 21-2: Encontrando dados em um banco de dados
+- [] 21-3: Filtrando dados de forma específica
+- [] 21-4: Manipulando tabelas
+- [] 21-5: [Projeto - All For One]()
