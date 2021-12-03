@@ -161,4 +161,4 @@
 - [:white_check_mark:] 20-1: Utilizando Containers - Docker
 - [:white_check_mark:] 20-2: Manipulação e Criação de Imagens no Docker
 - [:white_check_mark:] 20-3: Orquestrando Containers com Docker Compose
-- [] 20-4: [Projeto - Docker Todo-List]()
+- [:white_check_mark:] 20-4: [Projeto - Docker Todo-List]()
