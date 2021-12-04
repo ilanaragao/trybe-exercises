@@ -167,7 +167,7 @@
 
 - [:white_check_mark:] 21-1: Introdução - Bancos de dados relacionais
 - [:white_check_mark:] 21-1: Banco de dados SQL
-- [] 21-2: Encontrando dados em um banco de dados
+- [:white_check_mark:] 21-2: Encontrando dados em um banco de dados
 - [] 21-3: Filtrando dados de forma específica
 - [] 21-4: Manipulando tabelas
 - [] 21-5: [Projeto - All For One]()
