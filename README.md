@@ -175,3 +175,13 @@
 - [:white_check_mark:] 21-7: Descomplicando JOINs
 - [:white_check_mark:] 21-8: Transformando ideias em um modelo de banco de dados
 - [:white_check_mark:] 21-9: [Projeto - One For All](https://github.com/tryber/sd-014-a-mysql-one-for-all/pull/85)
+
+##### Bloco 22 - Introdução ao desenvolvimento Web com Node.js
+
+- [:white_check_mark:] 22-1: Intro - Node.js
+- [:white_check_mark:] 22-1: Node.js - Um motor JavaScript
+- [:white_check_mark:] 22-2: Node.js - Fluxo Assíncrono
+- [] 22-3: Mocha, Chai e Sinon - Testes de Back-end com Node.js
+- [] 22-4: Express - HTTP com Node.js
+- [] 22-5: Express - Middlewares
+- [] 22-6: [Projeto - Talker Manager]()
