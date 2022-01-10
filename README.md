@@ -161,13 +161,17 @@
 - [:white_check_mark:] 20-1: Utilizando Containers - Docker
 - [:white_check_mark:] 20-2: Manipulação e Criação de Imagens no Docker
 - [:white_check_mark:] 20-3: Orquestrando Containers com Docker Compose
-- [:white_check_mark:] 20-4: [Projeto - Docker Todo-List]()
+- [:white_check_mark:] 20-4: [Projeto - Docker Todo-List](https://github.com/tryber/sd-014-a-project-docker-todo-list/pull/23)
 
 ##### Bloco 21 - Introdução à SQL
 
 - [:white_check_mark:] 21-1: Introdução - Bancos de dados relacionais
 - [:white_check_mark:] 21-1: Banco de dados SQL
 - [:white_check_mark:] 21-2: Encontrando dados em um banco de dados
-- [] 21-3: Filtrando dados de forma específica
-- [] 21-4: Manipulando tabelas
-- [] 21-5: [Projeto - All For One]()
+- [:white_check_mark:] 21-3: Filtrando dados de forma específica
+- [:white_check_mark:] 21-4: Manipulando tabelas
+- [:white_check_mark:] 21-5: [Projeto - All For One](https://github.com/tryber/sd-014-a-mysql-all-for-one/pull/89)
+- [:white_check_mark:] 21-6: Funções mais usadas no SQL
+- [:white_check_mark:] 21-7: Descomplicando JOINs
+- [:white_check_mark:] 21-8: Transformando ideias em um modelo de banco de dados
+- [:white_check_mark:] 21-9: [Projeto - One For All](https://github.com/tryber/sd-014-a-mysql-one-for-all/pull/85)
