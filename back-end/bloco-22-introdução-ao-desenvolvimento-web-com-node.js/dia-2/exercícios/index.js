@@ -31,13 +31,16 @@ function getRandomNumber() {
   return Math.floor(Math.random() * 100 + 1);
 }
 
-function callDoMath() {
+async function callDoMath() {
   const randomNumbers = Array.from({ length: 3 }).map(getRandomNumber);
-  console.log(randomNumbers);
 
-  doMath(...randomNumbers)
-    .then((result) => console.log(result + ';'))
-    .catch((err) => console.error(err + ';'));
+  try {
+    const result = await doMath(...randomNumbers);
+    console.log(randomNumbers);
+    console.log(result);
+  } catch (err) {
+    console.error(err);
+  }
 }
 
 callDoMath();
