@@ -1,3 +1,5 @@
+/* Exercício 1 */
+
 function doMath(a, b, c) {
   return new Promise((resolve, reject) => {
     if (typeof a !== 'number' || typeof b !== 'number' || typeof c !== 'number')
@@ -15,12 +17,27 @@ function doMath(a, b, c) {
 
 doMath(10, 20, 5)
   .then((resolve) => console.log(resolve + ';'))
-    .catch((error) => console.log(error + ';'));
+  .catch((error) => console.log(error + ';'));
 
 doMath(1, 1, 'a')
   .then((resolve) => console.log(resolve + ';'))
-    .catch((error) => console.log(error + ';'));
+  .catch((error) => console.log(error + ';'));
 
 doMath(1, 1, 1)
   .then((resolve) => console.log(resolve + ';'))
-    .catch((error) => console.log(error + ';'));
+  .catch((error) => console.log(error + ';'));
+
+function getRandomNumber() {
+  return Math.floor(Math.random() * 100 + 1);
+}
+
+function callDoMath() {
+  const randomNumbers = Array.from({ length: 3 }).map(getRandomNumber);
+  console.log(randomNumbers);
+
+  doMath(...randomNumbers)
+    .then((result) => console.log(result + ';'))
+    .catch((err) => console.error(err + ';'));
+}
+
+callDoMath();
