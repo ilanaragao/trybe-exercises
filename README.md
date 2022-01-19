@@ -181,7 +181,7 @@
 - [:white_check_mark:] 22-1: Intro - Node.js
 - [:white_check_mark:] 22-1: Node.js - Um motor JavaScript
 - [:white_check_mark:] 22-2: Node.js - Fluxo Assíncrono
-- [] 22-3: Mocha, Chai e Sinon - Testes de Back-end com Node.js
-- [] 22-4: Express - HTTP com Node.js
-- [] 22-5: Express - Middlewares
-- [] 22-6: [Projeto - Talker Manager]()
+- [:white_check_mark:] 22-3: Mocha, Chai e Sinon - Testes de Back-end com Node.js
+- [:white_check_mark:] 22-4: Express - HTTP com Node.js
+- [:white_check_mark:] 22-5: Express - Middlewares
+- [:white_check_mark:] 22-6: [Projeto - Talker Manager](https://github.com/tryber/sd-014-a-project-talker-manager/pull/77)
