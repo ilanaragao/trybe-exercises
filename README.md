@@ -185,3 +185,12 @@
 - [:white_check_mark:] 22-4: Express - HTTP com Node.js
 - [:white_check_mark:] 22-5: Express - Middlewares
 - [:white_check_mark:] 22-6: [Projeto - Talker Manager](https://github.com/tryber/sd-014-a-project-talker-manager/pull/77)
+
+##### Bloco 23 - Node.js: Camada de Serviço e Arquitetura Rest e Restful
+
+- [:white_check_mark:] 23-1: Introdução - Arquitetura de Software
+- [:white_check_mark:] 23-1: Arquitetura de Software - Camada de Model
+- [] 23-2: Arquitetura de Software - Camada de Controller e Service
+- [] 23-3: Arquitetura Web - Rest e Restful
+- [] 23-4: Arquitetura de Software - Testando as Camadas
+- [] 23-6: [Projeto - Store Manager]()
