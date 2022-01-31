@@ -190,7 +190,7 @@
 
 - [:white_check_mark:] 23-1: Introdução - Arquitetura de Software
 - [:white_check_mark:] 23-1: Arquitetura de Software - Camada de Model
-- [] 23-2: Arquitetura de Software - Camada de Controller e Service
-- [] 23-3: Arquitetura Web - Rest e Restful
-- [] 23-4: Arquitetura de Software - Testando as Camadas
-- [] 23-6: [Projeto - Store Manager]()
+- [:white_check_mark:] 23-2: Arquitetura de Software - Camada de Controller e Service
+- [:white_check_mark:] 23-3: Arquitetura Web - Rest e Restful
+- [:white_check_mark:] 23-4: Arquitetura de Software - Testando as Camadas
+- [:white_check_mark:] 23-6: [Projeto - Store Manager](https://github.com/tryber/sd-014-a-store-manager/pull/53)
