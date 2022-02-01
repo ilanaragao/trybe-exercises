@@ -195,7 +195,7 @@
 - [:white_check_mark:] 23-4: Arquitetura de Software - Testando as Camadas
 - [:white_check_mark:] 23-5: [Projeto - Store Manager](https://github.com/tryber/sd-014-a-store-manager/pull/53)
 
-##### Bloco 23 - Node.js: ORM e Autenticação
+##### Bloco 24 - Node.js: ORM e Autenticação
 
 - [:white_check_mark:] 24-1: Introdução - Node.js: ORM e Autenticação
 - [:white_check_mark:] 24-1: ORM - Interface da aplicação com o banco de dados
