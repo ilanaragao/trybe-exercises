@@ -193,4 +193,13 @@
 - [:white_check_mark:] 23-2: Arquitetura de Software - Camada de Controller e Service
 - [:white_check_mark:] 23-3: Arquitetura Web - Rest e Restful
 - [:white_check_mark:] 23-4: Arquitetura de Software - Testando as Camadas
-- [:white_check_mark:] 23-6: [Projeto - Store Manager](https://github.com/tryber/sd-014-a-store-manager/pull/53)
+- [:white_check_mark:] 23-5: [Projeto - Store Manager](https://github.com/tryber/sd-014-a-store-manager/pull/53)
+
+##### Bloco 23 - Node.js: ORM e Autenticação
+
+- [:white_check_mark:] 24-1: Introdução - Node.js: ORM e Autenticação
+- [:white_check_mark:] 24-1: ORM - Interface da aplicação com o banco de dados
+- [] 24-2: ORM - Associations
+- [] 24-3: JWT - (JSON Web Token)
+- [] 24-4: Testando APIs com Testes de Integração
+- [] 24-5: [Projeto - API de Blogs]()
