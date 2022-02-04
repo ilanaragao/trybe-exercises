@@ -3,14 +3,14 @@
 <p>
 </p>
 
-> Repositório que armazena exercícios de fixação realizados durante o curso da Trybe. Em constante atualização. 
+> Repositório que armazena exercícios de fixação realizados durante o curso da Trybe. Em constante atualização.
 
 ## Autor
 
 👤 **Ilan Aragão Souza**
 
-* LinkedIn: https://www.linkedin.com/in/ilanaragao/
-* Github: [ilanaragao](https://github.com/ilanaragao)
+- LinkedIn: https://www.linkedin.com/in/ilanaragao/
+- Github: [ilanaragao](https://github.com/ilanaragao)
 
 <h4 align="center"> 
 	🚧  Trybe Exercises 🚀  
@@ -200,6 +200,6 @@
 - [:white_check_mark:] 24-1: Introdução - Node.js: ORM e Autenticação
 - [:white_check_mark:] 24-1: ORM - Interface da aplicação com o banco de dados
 - [:white_check_mark:] 24-2: ORM - Associations
-- [] 24-3: JWT - (JSON Web Token)
-- [] 24-4: Testando APIs com Testes de Integração
+- [:white_check_mark:] 24-3: JWT - (JSON Web Token)
+- [:white_check_mark:] 24-4: Testando APIs com Testes de Integração
 - [] 24-5: [Projeto - API de Blogs]()
