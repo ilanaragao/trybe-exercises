@@ -202,4 +202,11 @@
 - [:white_check_mark:] 24-2: ORM - Associations
 - [:white_check_mark:] 24-3: JWT - (JSON Web Token)
 - [:white_check_mark:] 24-4: Testando APIs com Testes de Integração
-- [] 24-5: [Projeto - API de Blogs]()
+- [:white_check_mark:] 24-5: [Projeto - API de Blogs](https://github.com/tryber/sd-014-a-project-blogs-api/pull/32)
+
+##### Bloco 25 - Deployment
+
+- [] 25-1: Introdução - Deploy
+- [] 25-1: Infraestrutura - Deploy com Heroku
+- [] 25-2: Deploy Docker & Heroku
+- [] 25-3: [Projeto - Stranger Things]()
