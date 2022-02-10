@@ -206,7 +206,7 @@
 
 ##### Bloco 25 - Deployment
 
-- [] 25-1: Introdução - Deploy
-- [] 25-1: Infraestrutura - Deploy com Heroku
-- [] 25-2: Deploy Docker & Heroku
+- [:white_check_mark:] 25-1: Introdução - Deploy
+- [:white_check_mark:] 25-1: Infraestrutura - Deploy com Heroku
+- [:white_check_mark:] 25-2: Deploy Docker & Heroku
 - [] 25-3: [Projeto - Stranger Things]()
