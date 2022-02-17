@@ -211,3 +211,11 @@
 - [:white_check_mark:] 25-2: Deploy Docker & Heroku
 - [:white_check_mark:] 25-3: [Projeto - Stranger Things FRONT-END](https://github.com/tryber/sd-014-a-stranger-things-frontend/pull/53)
 - [:white_check_mark:] 25-3: [Projeto - Stranger Things BACK-END](https://github.com/tryber/sd-014-a-stranger-things-backend/pull/55)
+
+##### Bloco 26 - TypeScript
+
+- [:white_check_mark:] 26-1: Introdução - TypeScript
+- [:white_check_mark:] 26-1: Introdução ao TypeScript
+- [] 26-2: Tipagem Estática e Generics
+- [] 26-3: Express com TypeScript
+- [] 26-4: [Projeto - Trybe Smith]()
