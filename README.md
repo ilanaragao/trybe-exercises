@@ -209,4 +209,5 @@
 - [:white_check_mark:] 25-1: Introdução - Deploy
 - [:white_check_mark:] 25-1: Infraestrutura - Deploy com Heroku
 - [:white_check_mark:] 25-2: Deploy Docker & Heroku
-- [] 25-3: [Projeto - Stranger Things]()
+- [:white_check_mark:] 25-3: [Projeto - Stranger Things FRONT-END](https://github.com/tryber/sd-014-a-stranger-things-frontend/pull/53)
+- [:white_check_mark:] 25-3: [Projeto - Stranger Things BACK-END](https://github.com/tryber/sd-014-a-stranger-things-backend/pull/55)
