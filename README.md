@@ -218,4 +218,4 @@
 - [:white_check_mark:] 26-1: Introdução ao TypeScript
 - [:white_check_mark:] 26-2: Tipagem Estática e Generics
 - [:white_check_mark:] 26-3: Express com TypeScript
-- [] 26-4: [Projeto - Trybe Smith]()
+- [:white_check_mark:] 26-4: [Projeto - Trybe Smith](https://github.com/tryber/sd-014-a-project-trybesmith/pull/19)
