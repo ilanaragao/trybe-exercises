@@ -216,6 +216,6 @@
 
 - [:white_check_mark:] 26-1: Introdução - TypeScript
 - [:white_check_mark:] 26-1: Introdução ao TypeScript
-- [] 26-2: Tipagem Estática e Generics
-- [] 26-3: Express com TypeScript
+- [:white_check_mark:] 26-2: Tipagem Estática e Generics
+- [:white_check_mark:] 26-3: Express com TypeScript
 - [] 26-4: [Projeto - Trybe Smith]()
