@@ -219,3 +219,12 @@
 - [:white_check_mark:] 26-2: Tipagem Estática e Generics
 - [:white_check_mark:] 26-3: Express com TypeScript
 - [:white_check_mark:] 26-4: [Projeto - Trybe Smith](https://github.com/tryber/sd-014-a-project-trybesmith/pull/19)
+
+##### Bloco 27 - Programação Orientada a Objetos (POO) e SOLID
+
+- [:white_check_mark:] 23-1: Introdução à Orientação a Objetos
+- [:white_check_mark:] 23-2: Herança e Interfaces
+- [] 23-3: Polimorfismo
+- [] 23-4: SOLID - Introdução e Princípios S, O e D
+- [] 23-5: SOLID - Princípios L e I
+- [] 23-6: [Projeto - Trybers and Dragons]()
