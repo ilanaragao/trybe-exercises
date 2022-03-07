@@ -222,9 +222,9 @@
 
 ##### Bloco 27 - Programação Orientada a Objetos (POO) e SOLID
 
-- [:white_check_mark:] 23-1: Introdução à Orientação a Objetos
-- [:white_check_mark:] 23-2: Herança e Interfaces
-- [] 23-3: Polimorfismo
-- [] 23-4: SOLID - Introdução e Princípios S, O e D
-- [] 23-5: SOLID - Princípios L e I
-- [] 23-6: [Projeto - Trybers and Dragons]()
+- [:white_check_mark:] 27-1: Introdução à Orientação a Objetos
+- [:white_check_mark:] 27-2: Herança e Interfaces
+- [] 27-3: Polimorfismo
+- [] 27-4: SOLID - Introdução e Princípios S, O e D
+- [] 27-5: SOLID - Princípios L e I
+- [] 27-6: [Projeto - Trybers and Dragons]()
