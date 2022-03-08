@@ -224,7 +224,7 @@
 
 - [:white_check_mark:] 27-1: Introdução à Orientação a Objetos
 - [:white_check_mark:] 27-2: Herança e Interfaces
-- [] 27-3: Polimorfismo
-- [] 27-4: SOLID - Introdução e Princípios S, O e D
+- [:white_check_mark:] 27-3: Polimorfismo
+- [:white_check_mark:] 27-4: SOLID - Introdução e Princípios S, O e D
 - [] 27-5: SOLID - Princípios L e I
 - [] 27-6: [Projeto - Trybers and Dragons]()
