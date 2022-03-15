@@ -226,5 +226,9 @@
 - [:white_check_mark:] 27-2: Herança e Interfaces
 - [:white_check_mark:] 27-3: Polimorfismo
 - [:white_check_mark:] 27-4: SOLID - Introdução e Princípios S, O e D
-- [] 27-5: SOLID - Princípios L e I
-- [] 27-6: [Projeto - Trybers and Dragons]()
+- [:white_check_mark:] 27-5: SOLID - Princípios L e I
+- [:white_check_mark:] 27-6: [Projeto - Trybers and Dragons](https://github.com/tryber/sd-014-a-project-trybers-and-dragons/pull/41)
+
+##### Bloco 28 - Programação Orientada a Objetos (POO) e SOLID
+
+- [] 28-1: [Projeto - TFC - Trybe Futebol Clube]()
