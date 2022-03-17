@@ -231,4 +231,4 @@
 
 ##### Bloco 28 - Programação Orientada a Objetos (POO) e SOLID
 
-- [] 28-1: [Projeto - TFC - Trybe Futebol Clube]()
+- [:white_check_mark:] 28-1: [Projeto - TFC - Trybe Futebol Clube](https://github.com/tryber/sd-014-a-trybe-futebol-clube/pull/6)
