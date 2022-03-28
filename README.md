@@ -232,3 +232,13 @@
 ##### Bloco 28 - Programação Orientada a Objetos (POO) e SOLID
 
 - [:white_check_mark:] 28-1: [Projeto - TFC - Trybe Futebol Clube](https://github.com/tryber/sd-014-a-trybe-futebol-clube/pull/6)
+
+##### Bloco 29 - Introdução ao MongoDB
+
+- [:white_check_mark:] 29-1: Introdução - NoSQL
+- [] 29-1: MongoDB - Introdução
+- [] 29-2: Filter Operators
+- [] 29-3: Operadores de consulta
+- [] 29-4: Updates Simples
+- [] 29-5: Updates Complexos - Arrays
+- [] 29-6: [Projeto - Commerce]()
