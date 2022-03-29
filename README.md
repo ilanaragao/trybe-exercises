@@ -236,8 +236,8 @@
 ##### Bloco 29 - Introdução ao MongoDB
 
 - [:white_check_mark:] 29-1: Introdução - NoSQL
-- [] 29-1: MongoDB - Introdução
-- [] 29-2: Filter Operators
+- [:white_check_mark:] 29-1: MongoDB - Introdução
+- [:white_check_mark:] 29-2: Filter Operators
 - [] 29-3: Operadores de consulta
 - [] 29-4: Updates Simples
 - [] 29-5: Updates Complexos - Arrays
