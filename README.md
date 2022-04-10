@@ -242,3 +242,9 @@
 - [:white_check_mark:] 29-4: Updates Simples
 - [:white_check_mark:] 29-5: Updates Complexos - Arrays
 - [:white_check_mark:] 29-6: [Projeto - Commerce](https://github.com/tryber/sd-014-a-mongodb-commerce/pull/60)
+
+##### Bloco 30 - MongoDB com Node.js e POO
+
+- [:white_check_mark:] 30-1: MongoDB e arquitetura MSC
+- [:white_check_mark:] 30-2: MongoDB e POO
+- [] 30-3: [Projeto - Car Shop]()
