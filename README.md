@@ -239,6 +239,6 @@
 - [:white_check_mark:] 29-1: MongoDB - Introdução
 - [:white_check_mark:] 29-2: Filter Operators
 - [:white_check_mark:] 29-3: Operadores de consulta
-- [] 29-4: Updates Simples
-- [] 29-5: Updates Complexos - Arrays
-- [] 29-6: [Projeto - Commerce]()
+- [:white_check_mark:] 29-4: Updates Simples
+- [:white_check_mark:] 29-5: Updates Complexos - Arrays
+- [:white_check_mark:] 29-6: [Projeto - Commerce](https://github.com/tryber/sd-014-a-mongodb-commerce/pull/60)
