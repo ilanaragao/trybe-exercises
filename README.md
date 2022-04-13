@@ -247,4 +247,4 @@
 
 - [:white_check_mark:] 30-1: MongoDB e arquitetura MSC
 - [:white_check_mark:] 30-2: MongoDB e POO
-- [] 30-3: [Projeto - Car Shop]()
+- [:white_check_mark:] 30-3: [Projeto - Car Shop](https://github.com/tryber/sd-014-a-project-car-shop/pull/22)
