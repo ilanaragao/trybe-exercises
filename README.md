@@ -248,3 +248,7 @@
 - [:white_check_mark:] 30-1: MongoDB e arquitetura MSC
 - [:white_check_mark:] 30-2: MongoDB e POO
 - [:white_check_mark:] 30-3: [Projeto - Car Shop](https://github.com/tryber/sd-014-a-project-car-shop/pull/22)
+
+##### Bloco 31 - Projeto App de Delivery
+
+- [:white_check_mark:] 31-1: [Projeto - Delivery App](https://github.com/tryber/sd-014-a-project-delivery-app/pull/19)
