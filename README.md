@@ -252,3 +252,16 @@
 ##### Bloco 31 - Projeto App de Delivery
 
 - [:white_check_mark:] 31-1: [Projeto - Delivery App](https://github.com/tryber/sd-014-a-project-delivery-app/pull/19)
+
+##### Bloco 32 - MasterClass - VPS, CI/CD
+
+- [:white_check_mark:] 32-1: VPS
+- [:white_check_mark:] 30-2: CI/CD
+
+##### Bloco 33 - Introdução à Python
+
+- [:white_check_mark:] 33-1: Introdução - Ciência da Computação
+- [:white_check_mark:] 33-1: Aprendendo Python
+- [:white_check_mark:] 33-2: Entrada e Saída de Dados
+- [:white_check_mark:] 33-3: Testes
+- [:white_check_mark:] 33-4: [Projeto - Job Insights](https://github.com/tryber/sd-014-a-project-job-insights/pull/42)
