@@ -265,3 +265,10 @@
 - [:white_check_mark:] 33-2: Entrada e Saída de Dados
 - [:white_check_mark:] 33-3: Testes
 - [:white_check_mark:] 33-4: [Projeto - Job Insights](https://github.com/tryber/sd-014-a-project-job-insights/pull/42)
+
+##### Bloco 34 - Padrões de Projeto
+
+- [:white_check_mark:] 34-1: P.O.O em Python
+- [:white_check_mark:] 34-2: Padrões - Iterator, Adapter, Strategy
+- [:white_check_mark:] 34-3: Padrões - Decorator, Observer, Factory
+- [:white_check_mark:] 34-4: [Projeto - Relatórios de Estoque](https://github.com/tryber/sd-014-a-project-job-insights/pull/42)
