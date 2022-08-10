@@ -285,3 +285,11 @@
 - [:white_check_mark:] 36-2: Recursividade e Estratégias para solução de problemas
 - [:white_check_mark:] 36-3: Algoritmos de ordenação e busca
 - [:white_check_mark:] 36-4: [Projeto - Algoritmos](https://github.com/tryber/sd-014-a-project-algorithms/pull/10)
+
+##### Bloco 37 - Estrutura de Dados I: Arrays, Listas, Filas e Pilhas
+
+- [:white_check_mark:] 37-1: Arquitetura de Computadores
+- [:white_check_mark:] 37-2: Arrays
+- [:white_check_mark:] 37-3: Nó e Listas Encadeadas
+- [:white_check_mark:] 37-4: Pilhas e Filas
+- [:white_check_mark:] 37-5: [Projeto - TING - Trybe Is Not Google](https://github.com/tryber/sd-014-a-project-ting/pull/36)
