@@ -278,3 +278,10 @@
 - [:white_check_mark:] 35-1: Arquitetura de redes, ferramentas e segurança
 - [:white_check_mark:] 35-2: Raspagem de Dados
 - [:white_check_mark:] 35-3: [Projeto - Tech news](https://github.com/tryber/sd-014-a-tech-news/pull/6)
+
+##### Bloco 36 - Algoritmos
+
+- [:white_check_mark:] 36-1: Complexidade de Algoritmos
+- [:white_check_mark:] 36-2: Recursividade e Estratégias para solução de problemas
+- [:white_check_mark:] 36-3: Algoritmos de ordenação e busca
+- [:white_check_mark:] 36-4: [Projeto - Algoritmos](https://github.com/tryber/sd-014-a-project-algorithms/pull/10)
