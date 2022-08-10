@@ -272,3 +272,9 @@
 - [:white_check_mark:] 34-2: Padrões - Iterator, Adapter, Strategy
 - [:white_check_mark:] 34-3: Padrões - Decorator, Observer, Factory
 - [:white_check_mark:] 34-4: [Projeto - Relatórios de Estoque](https://github.com/tryber/sd-014-a-inventory-report/pull/38)
+
+##### Bloco 35 - Redes e Raspagem de Dados
+
+- [:white_check_mark:] 35-1: Arquitetura de redes, ferramentas e segurança
+- [:white_check_mark:] 35-2: Raspagem de Dados
+- [:white_check_mark:] 35-3: [Projeto - Tech news](https://github.com/tryber/sd-014-a-tech-news/pull/6)
