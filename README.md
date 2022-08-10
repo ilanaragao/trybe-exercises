@@ -293,3 +293,9 @@
 - [:white_check_mark:] 37-3: Nó e Listas Encadeadas
 - [:white_check_mark:] 37-4: Pilhas e Filas
 - [:white_check_mark:] 37-5: [Projeto - TING - Trybe Is Not Google](https://github.com/tryber/sd-014-a-project-ting/pull/36)
+
+##### Bloco 38 - Estrutura de Dados II: Hashmaps e Sets
+
+- [:white_check_mark:] 35-1: Hashmap e Dict
+- [:white_check_mark:] 35-2: Set
+- [:white_check_mark:] 35-3: [Projeto - Restaurant Orders](https://github.com/tryber/sd-014-a-restaurant-orders/pull/38)
