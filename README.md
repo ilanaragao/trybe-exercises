@@ -300,4 +300,6 @@
 - [:white_check_mark:] 35-2: Set
 - [:white_check_mark:] 35-3: [Projeto - Restaurant Orders](https://github.com/tryber/sd-014-a-restaurant-orders/pull/38)
 
-##### Curso finalizado #####
+<br>
+
+> Curso finalizado em 30/08/2022.
